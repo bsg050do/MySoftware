@@ -1,2 +1,5 @@
 #!/usr/bin/python3
-print("Hello")
+#in NewButton
+def click():
+  print("Click")
+click()
