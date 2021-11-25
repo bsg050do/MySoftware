@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#in NewButton
-def click():
-  print("Click")
-click()
+#in NewScreen
+def welcome():
+  print("New Screen")
+welcome()
